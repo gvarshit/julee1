@@ -11,6 +11,7 @@ public class v extends D{
 		v V = new v();
 		V.day();
 		V.date(); 
+		V.nextyear();
 
 	}
 

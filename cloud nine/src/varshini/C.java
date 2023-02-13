@@ -11,6 +11,7 @@ public class C extends D {
 		C c = new C();
 		c.year();
 		c.date();
+		c.nextyear();
 	}
 
 }

@@ -10,6 +10,7 @@ public class B extends D {
 		B b = new B();
 		b.month();
 		b.date();
+		b.nextyear();
 		
 		
 
